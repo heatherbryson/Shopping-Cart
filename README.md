@@ -9,4 +9,4 @@ Download files, run "http-server" in your terminal and open your local host or v
 I would like to make the shopping cart more aesthetic but just focusing on functionality for now. 
 
 ## License 
-https://LICENSE 
+https://github.com/heatherbryson/Shopping-Cart/blob/main/LICENSE
